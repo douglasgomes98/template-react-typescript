@@ -37,12 +37,4 @@ module.exports = {
       template: path.join(__dirname, "public", "index.html"),
     }),
   ],
-  devServer: {
-    port: 8000,
-    contentBase: path.join(__dirname, "public"),
-    compress: true,
-    historyApiFallback: true,
-    writeToDisk: true,
-    open: true,
-  },
 };
