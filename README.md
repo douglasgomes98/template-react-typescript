@@ -1,3 +1,21 @@
-# boilerplate-react-typescript
+# Template React Typescript
 
-* Link de Deploy https://boilerplate-react-typescript-nd5yg.ondigitalocean.app
+* After installing the dependencies
+
+```
+yarn husky install 
+```
+
+* Base Scripts
+
+```
+- start
+- build
+- test
+- test:ci
+- test:staged
+- test:watch
+- eslint
+- prettier
+- linter
+```
